@@ -1,9 +1,161 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T02:39:53.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" version="22.0.6" etag="tSbJ3S5GyZeyq87HLIlJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T03:08:10.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="khz55c1LDLxQS_bSbSZ3" version="22.0.6" type="github">
   <diagram name="第 1 页" id="vD5gCRbqasNOSXQb99KS">
-    <mxGraphModel>
+    <mxGraphModel dx="1514" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-1" target="Ye4yCNiOFPT-AM2S-FvC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="470" />
+              <mxPoint x="240" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-1" target="Ye4yCNiOFPT-AM2S-FvC-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="470" />
+              <mxPoint x="760" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-1" value="嵌入式系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-2" target="Ye4yCNiOFPT-AM2S-FvC-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="630" />
+              <mxPoint x="70" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-2" target="Ye4yCNiOFPT-AM2S-FvC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-2" target="Ye4yCNiOFPT-AM2S-FvC-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="630" />
+              <mxPoint x="670" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-2" target="Ye4yCNiOFPT-AM2S-FvC-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="630" />
+              <mxPoint x="370" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-2" target="Ye4yCNiOFPT-AM2S-FvC-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="630" />
+              <mxPoint x="520" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-2" value="初始化" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-4" target="Ye4yCNiOFPT-AM2S-FvC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-4" target="Ye4yCNiOFPT-AM2S-FvC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-4" value="循环处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-9" value="主控芯片" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-11" value="ADS1299" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-12" value="蓝牙协议栈" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-13" value="电量检测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-2" target="Ye4yCNiOFPT-AM2S-FvC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="580" as="sourcePoint" />
+            <mxPoint x="310" y="710" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-10" value="OTA" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-28" target="Ye4yCNiOFPT-AM2S-FvC-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1000" />
+              <mxPoint x="70" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-28" target="Ye4yCNiOFPT-AM2S-FvC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-28" target="Ye4yCNiOFPT-AM2S-FvC-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1000" />
+              <mxPoint x="370" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-28" value="肌电采集处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-29" target="Ye4yCNiOFPT-AM2S-FvC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-29" target="Ye4yCNiOFPT-AM2S-FvC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-29" target="Ye4yCNiOFPT-AM2S-FvC-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-29" target="Ye4yCNiOFPT-AM2S-FvC-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ye4yCNiOFPT-AM2S-FvC-29" target="Ye4yCNiOFPT-AM2S-FvC-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-29" value="蓝牙发射处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-32" value="肌电数据接收" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-33" value="肌电数据处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-34" value="肌电命令解析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-35" value="电量检测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-36" value="电量发送" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-37" value="肌电数据发送" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-41" value="蓝牙连接认证校验" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ye4yCNiOFPT-AM2S-FvC-46" value="蓝牙连接认证校验发送" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
